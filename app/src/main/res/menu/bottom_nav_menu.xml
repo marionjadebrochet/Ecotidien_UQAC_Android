@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/navigation_friends"
+            android:icon="@drawable/ic_amis"
+            android:title="@string/amis_item_title"/>
+        <item
+            android:id="@+id/navigation_tri"
+            android:icon="@drawable/ic_tri"
+            android:title="@string/tri_item_title"/>
+        <item
+            android:id="@+id/navigation_dashboard"
+            android:icon="@drawable/ic_generateur"
+            android:title="@string/generateur_item_title"/>
+        <item
+            android:id="@+id/navigation_profil"
+            android:icon="@drawable/ic_compte"
+            android:title="@string/compte_item_title"/>
+        <item
+            android:id="@+id/navigation_FAQ"
+            android:icon="@drawable/ic_faq"
+            android:title="@string/faq_item_title"/>
+
+</menu>

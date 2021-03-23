@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ecotidien</string>
+    <string name="logout_item_title">Login</string>
+    <string name="share_item_title">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard_text">Dashboard Fragment</string>
+    <string name="friends_text">Friends Fragment</string>
+    <string name="profile_text">Profile Fragment</string>
+    <string name="tri_text">Tri Fragment</string>
+    <string name="faq_text">FAQ Fragment</string>
+
+    <string name="amis_item_title">Amis</string>
+    <string name="tri_item_title">Tri</string>
+    <string name="generateur_item_title">Générateur</string>
+    <string name="compte_item_title">Compte</string>
+    <string name="faq_item_title">FAQ</string>
+
+
+</resources>
